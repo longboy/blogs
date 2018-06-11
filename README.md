@@ -1,2 +1,2 @@
-# github.io
-blog
+# blogs
+my blog
